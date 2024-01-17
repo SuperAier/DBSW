@@ -18,7 +18,9 @@
 
 
 Usage: Dbsw_darwin -c dbsw.yml
+
 试用版本支持MySql和简单防护
+
 正式版本支持：db2、MSSSQL、Oracle、Maridb、达梦、人大金仓、翰高、神通、PostgreSQL
 
 正式版本请咨询：services@super-intelligence.net
