@@ -17,12 +17,19 @@
 - DBSW System: Intelligent, reliable, omnipresent protection ensuring your data's safety and peace of mind.
 
 
-Usage: Dbsw_darwin -c dbsw.yml
+# Usage: Dbsw -c dbsw.yml
 
-试用版本支持MySql和简单防护
+# 试用版本支持MySql和简单防护
 
-正式版本支持：db2、MSSSQL、Oracle、Maridb、达梦、人大金仓、翰高、神通、PostgreSQL
+# 正式版本支持：db2、MSSSQL、Oracle、Maridb、达梦、人大金仓、翰高、神通、PostgreSQL
 
-正式版本请咨询：services@super-intelligence.net
+# 正式版本请咨询：services@super-intelligence.net
 
 
+# Usage: Dbsw_darwin -c dbsw.yml
+
+# The trial version supports MySql and simple protection.
+
+# The official version supports: db2, MSSQL, Oracle, Mariadb, Dameng, RenDa JinCang, HanGao, ShenTong, PostgreSQL.
+
+# For the official version, please consult: services@super-intelligence.net
